@@ -1,2 +1,2 @@
 # keras-od-template
-Keras object detection template.
+This is one of several object detection templates I'll be working on occasionally. Setting up object detection projects can take up a good amount of time. Since there's not a very large variance in the types of inputs and outputs for TF object detection models, you shouldn't find yourself constantly setting up the same thing again and again. This and my other templates are meant to make the setup of such projects quicker and easier.
